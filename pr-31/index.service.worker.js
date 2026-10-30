@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1793358189|95510022';
+const CACHE_VERSION = '1793362539|74343250';
 /** @type {string} */
 const CACHE_PREFIX = 'SpaceOdyssey-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
